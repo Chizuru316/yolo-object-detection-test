@@ -1,1 +1,1 @@
-conflict for branch a
+conflict for branch b
