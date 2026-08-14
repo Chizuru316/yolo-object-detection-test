@@ -6,7 +6,7 @@
 Xây dựng một web app hoàn chỉnh cho phép người dùng upload ảnh/video ngắn và nhận kết quả nhận diện vật thể bằng YOLO, triển khai theo quy trình DevOps thực tế (Docker, CI/CD, Cloud deployment, Logging & Monitoring).
 
 ## Thành viên nhóm
-- <Tên bạn> — <vai trò>
+- Pham Minh Chien - All roles
 
 ## Quy tắc branch
 - `main`: nhánh chính, được bảo vệ, không push trực tiếp.
@@ -14,9 +14,4 @@ Xây dựng một web app hoàn chỉnh cho phép người dùng upload ảnh/vi
 - `fix/<mo-ta>`: sửa lỗi.
 - Mọi thay đổi merge vào `main` phải qua Pull Request.
 
-## Yêu cầu môi trường (Prerequisites)
-- Ubuntu (khuyến nghị)
-- Python 3.10+
-- Node.js 18+
-- Docker & Docker Compose
-- Git
+
